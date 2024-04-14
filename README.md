@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ### Contact
 Yeshwanth G - yeshwanthgovindarjan@gmail.com
-Project Link - 
+Project Link - https://github.com/YeshwanthGovindarajan/SFL_Model/
 
 ### Acknowledgements
 Ethereum Development Documentation
