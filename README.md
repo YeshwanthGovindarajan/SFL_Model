@@ -79,11 +79,12 @@ Ensure the system works as expected by running the tests provided:
 ### Contributing
 Interested in contributing? We love pull requests! Here's how you can contribute:
 
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/YourFeature).
-3.Commit your changes (git commit -m 'Add some feature').
-4.Push to the branch (git push origin feature/YourFeature).
-5.Create a new Pull Request.
+1. Fork the repository.
+3. Create a new branch (git checkout -b feature/YourFeature).
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature/YourFeature).
+6. Create a new Pull Request.
+   
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
